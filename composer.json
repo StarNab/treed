@@ -3,7 +3,9 @@
     "description": "TreeD extension",
     "license": "GPL-2.0",
     "authors": [
-    {
-        "name": "Jared"
-    }]
+        {
+            "name": "Jared",
+            "homepage": "https://jaredforsyth.com/treed/"
+        }
+    ]
 }
